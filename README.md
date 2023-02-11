@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S0rrowFu11
 - 📛 My name is Dmitry Isaev
 - 🎓 Studying in HSE(GSB) Business-Informatics
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Java, Python, C++
 - 📫 Telegram: @Prfssr030
 
 <!---
